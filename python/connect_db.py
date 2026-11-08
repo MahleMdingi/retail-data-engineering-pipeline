@@ -3,11 +3,11 @@ import pyodbc
 #Database connection config
 connection_string = (
     "DRIVER={ODBC Driver 18 for SQL Server};"
-    "SERVER=localhost;"
-    "DATABASE=RetailDB;"
-    "Trusted_Connection=yes;"
-    "Encrypt=yes;"
-    "TrustServerCertificate=yes;"
+    "SERVER=[];"
+    "DATABASE=[];"
+    "Trusted_Connection=[];"
+    "Encrypt=[];"
+    "TrustServerCertificate=[];"
 )
 
 try:
