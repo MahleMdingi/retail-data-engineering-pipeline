@@ -1,1 +1,9 @@
-
+OrderID,CustomerName,Product,Category,Quantity,UnitPrice,OrderDate
+1001,John Smith,Laptop,Electronics,1,12000,2026-01-05
+1002,Sarah Jones,Mouse,Accessories,2,250,2026-01-06
+1003,David Brown,Keyboard,Accessories,1,650,2026-01-07
+1004,John Smith,Monitor,Electronics,2,3200,2026-01-08
+1005,Mary Adams,Laptop,Electronics,1,12000,2026-01-09
+1006,Sarah Jones,Mouse,Accessories,3,250,2026-01-10
+1007,David Brown,Monitor,Electronics,1,3200,2026-01-11
+1008,Mary Adams,Keyboard,Accessories,2,650,2026-01-12
