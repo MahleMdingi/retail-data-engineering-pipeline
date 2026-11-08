@@ -1,1 +1,7 @@
+Validation_Rule,Failed_Records
+Missing_Quantity,1
+Invalid_Quantity,1
+Missing_Price,1
+Invalid_Price,0
+Missing_Customer,1
 
