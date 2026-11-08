@@ -1,1 +1,7 @@
-
+OrderID,CustomerName,Product,Category,Quantity,UnitPrice,OrderDate
+1009,Emily Clark,Headphones,Accessories,2,850,2026-01-13
+1009,Emily Clark,Headphones,Accessories,2,850,2026-01-13
+1010,,Mouse,Accessories,1,250,2026-01-14
+1011,James Wilson,Keyboard,Accessories,,650,2026-01-15
+1012,Anna Lee,Monitor,Electronics,-1,3200,2026-01-16
+1013,Peter Jones,Laptop,Electronics,1,abc,2026-01-17
